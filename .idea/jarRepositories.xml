@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="ef890c50-dffe-4c4b-8d47-bf2803c50a57" />
+      <option name="name" value="ef890c50-dffe-4c4b-8d47-bf2803c50a57" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a0b2d9d0-4307-4f72-9768-93d4b2b3b64a" />
+      <option name="name" value="a0b2d9d0-4307-4f72-9768-93d4b2b3b64a" />
+      <option name="url" value="https://app.camunda.com/nexus/content/groups/public&lt;" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="5baaf936-d62e-4694-89b1-8979e2397ad0" />
+      <option name="name" value="5baaf936-d62e-4694-89b1-8979e2397ad0" />
+      <option name="url" value="http://repo.spring.io/release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="31a96b02-488c-4a80-9bb3-b0d6ee729d5d" />
+      <option name="name" value="31a96b02-488c-4a80-9bb3-b0d6ee729d5d" />
+      <option name="url" value="http://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="da28cda4-49f0-4771-92f3-cfefa54e9f3a" />
+      <option name="name" value="da28cda4-49f0-4771-92f3-cfefa54e9f3a" />
+      <option name="url" value="http://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="f6889e5c-7d61-4b6f-b58a-cff5c12ba024" />
+      <option name="name" value="f6889e5c-7d61-4b6f-b58a-cff5c12ba024" />
+      <option name="url" value="https://maven.alfresco.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="7f4160fd-5cd9-4213-9888-eba1b61e6730" />
+      <option name="name" value="7f4160fd-5cd9-4213-9888-eba1b61e6730" />
+      <option name="url" value="http://maven.oschina.net/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="b57a7db1-e1e3-41cc-9890-56365e09f3a8" />
+      <option name="name" value="b57a7db1-e1e3-41cc-9890-56365e09f3a8" />
+      <option name="url" value="http://git.oschina.net/thinkgem/repos/raw/master" />
+    </remote-repository>
+  </component>
+</project>
